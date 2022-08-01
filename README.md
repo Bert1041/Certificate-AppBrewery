@@ -1,2 +1,2 @@
-# Certificat-AppBrewery
+# Certificate-AppBrewery
 certificate of completion
